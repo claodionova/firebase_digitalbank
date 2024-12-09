@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222644583887",
+    "project_id": "flutter-firebase-7580f",
+    "storage_bucket": "flutter-firebase-7580f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222644583887:android:d704fb1912fa1a30ef66ba",
+        "android_client_info": {
+          "package_name": "com.claodio.nova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0dRhBY72ej9_XxdV6auroL2mSeO4zVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
